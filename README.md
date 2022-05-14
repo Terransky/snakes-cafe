@@ -5,6 +5,7 @@ Author: Anthony Turinski
 
 Links and Resources
 
+    [https://github.com/Terransky/snakes-cafe](https://github.com/Terransky/snakes-cafe)
     back-end server url (when applicable)
     front-end application (when applicable)
 
